@@ -6,10 +6,10 @@
     display: The Wen Group
   highlight: 1
 
-# - title: "Loong Wang"
-#   image: Loong_Wang.jpg
-#   description: Loong Wang is a seasoned deep-tech entrepreneur and the CEO of QDX Technologies, a company advancing the frontiers of drug discovery through quantum mechanics, artificial intelligence, and exascale supercomputing. With a background in mathematics and distributed systems from the Australian National University, Loong has raised over US$50M and led multiple ventures across fintech, blockchain, and biotech—including two successful exits totaling US$1.8B in market capitalization. At QDX, he leads the development of Rush, an autonomous drug discovery platform that makes high-performance virtual screening and predictive modeling accessible to teams of all sizes. By uniting AI with quantum chemistry, his work accelerates the design of next-generation therapeutics targeting some of the most complex and previously intractable disease areas. Loong is committed to expanding access to advanced discovery tools and shaping the future of computational medicine. At BIO25, he will share how Rush is redefining the pace, scale, and reach of drug development.
-#   link:
-#     url: https://iq.wiki/wiki/loong-wang
-#     display: Loong Wang
-#   highlight: 1
+- title: "Loong Wang"
+  image: Loong_Wang.jpg
+  description: Loong Wang is a seasoned deep-tech entrepreneur and the CEO of QDX Technologies, a company advancing the frontiers of drug discovery through quantum mechanics, artificial intelligence, and exascale supercomputing. With a background in mathematics and distributed systems from the Australian National University, Loong has raised over US$50M and led multiple ventures across fintech, blockchain, and biotech—including two successful exits totaling US$1.8B in market capitalization. At QDX, he leads the development of Rush, an autonomous drug discovery platform that makes high-performance virtual screening and predictive modeling accessible to teams of all sizes. By uniting AI with quantum chemistry, his work accelerates the design of next-generation therapeutics targeting some of the most complex and previously intractable disease areas.
+  link:
+    url: https://iq.wiki/wiki/loong-wang
+    display: Loong Wang
+  highlight: 1
