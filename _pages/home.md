@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-**The AIML in Computational and Experimental Biology (AIML-CEB) Workshop will be held at [AJCAI 2025](https://ajcai2025.org/), hosted at the Australian National University (ANU), Canberra, on December 2nd, 2025.**
+<div style="text-align: justify">**The AIML in Computational and Experimental Biology (AIML-CEB) Workshop will be held at [AJCAI 2025](https://ajcai2025.org/), hosted at the Australian National University (ANU), Canberra, on December 2nd, 2025.**
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
