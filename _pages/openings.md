@@ -3,7 +3,6 @@ title: "AIML-CEB - Call for Papers"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
-<!-- permalink: /vacancies call_for_papers-->
 permalink: /call_for_papers/
 ---
 
