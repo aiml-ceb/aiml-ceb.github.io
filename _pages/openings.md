@@ -43,7 +43,7 @@ permalink: /call_for_papers/
 
 You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
 
-### Past open positions
+<!--### Past open positions
 
 You find the past job openings here:
 [Opening 1]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf),
@@ -62,4 +62,4 @@ We especially welcome postdocs with fellowships. I'd be happy to support you, al
 If you are a Master student at Leiden University looking for a Master project, contact me (or any group member) per email or stop by my office.
 
 ### Bsc / Master students from elsewhere
-If you are interested in pursuing a Master degree at Leiden University, see [mastersinleiden.nl](http://www.mastersinleiden.nl/programmes/physics/en/introduction). Sometimes, we take master students or summer interns if we get exceptional applicants (this usually means very good grades and a personal recommendation).
+If you are interested in pursuing a Master degree at Leiden University, see [mastersinleiden.nl](http://www.mastersinleiden.nl/programmes/physics/en/introduction). Sometimes, we take master students or summer interns if we get exceptional applicants (this usually means very good grades and a personal recommendation).-->
