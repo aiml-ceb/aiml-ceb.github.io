@@ -57,5 +57,5 @@ permalink: /
     
 <figure class="fifth" style="display: flex; justify-content: center; gap: 30px; align-items: center; margin: 20px 0;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/csiro.png" style="width: 140px; height: auto; margin: 0 20px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ANU.png" style="width: 140px; height: auto; margin: 0 20px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ANU.jpeg" style="width: 140px; height: auto; margin: 0 20px;">
 </figure>
