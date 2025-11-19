@@ -1,4 +1,4 @@
-- title: "A/Prof Jean (Jiayu) Wen"
+- title: "A/Prof. Jean (Jiayu) Wen"
   image: Jiayu_Wen.jpg
   description: Jean (Jiayu) Wen is a computational biologist with expertise in computational and statistical method development, machine learning, high-throughput genomic data analysis, and molecular biology experiments to model gene regulatory interaction. Wen is an Associate Professor at The John Curtin School of Medical Research at Australian National University (ANU) where she holds an Australian Research Council (ARC) Future Fellowship (2017-22), an ARC Discovery Project (2022-25), and an ANU Future Scheme Fellowship (2019-23). She has extensive experience developing computational methods and machine learning models of diverse modes of gene regulatory networks. Her work has made original contributions to both computational methodological advances and novel biological discoveries, evidenced by her consistently highly cited publications in the top journals of the field, with over 50% of her papers having appeared in the top 1-2\% of journals in the field of computational biology and genomics. Her research is in close collaboration with investigators from diverse disciplines, and she has established many strong national (6 current) and international (10 current) collaborations with world-leading computational and experimental biologists. The current goal of her research group is to make use of machine learning, computational and statistical method development, and the power of deep sequencing approaches combined with experimental validation to explore diverse modes of gene regulatory networks. Her skills and expertise in integrative computational models of gene regulation networks, founded on her research training in these areas in world-leading gene regulation laboratories (Memorial Sloan-Kettering Institute and Copenhagen University), are of particular importance for the data-driven modelling approaches.
   link:
@@ -6,10 +6,10 @@
     display: The Wen Group
   highlight: 1
 
-# - title: "Loong Wang"
-#   image: Loong_Wang.jpg
-#   description: Loong Wang is a seasoned deep-tech entrepreneur and the CEO of QDX Technologies, a company advancing the frontiers of drug discovery through quantum mechanics, artificial intelligence, and exascale supercomputing. With a background in mathematics and distributed systems from the Australian National University, Loong has raised over US$50M and led multiple ventures across fintech, blockchain, and biotech—including two successful exits totaling US$1.8B in market capitalization. At QDX, he leads the development of Rush, an autonomous drug discovery platform that makes high-performance virtual screening and predictive modeling accessible to teams of all sizes. By uniting AI with quantum chemistry, his work accelerates the design of next-generation therapeutics targeting some of the most complex and previously intractable disease areas.
-#   link:
-#     url: https://www.linkedin.com/in/bzlwang/?originalSubdomain=sg
-#     display: Loong Wang
-#   highlight: 1
+- title: "Dr. Benjamin Goudey"
+  image: Ben.jpg
+  description: Benjamin Goudey is a Research Fellow at The University of Melbourne. He was formerly a Research Staff Member at the IBM Research-Australia lab in Melbourne, working within the Biomedical Data Science team with a focus on Genomics. His work has two main areas of interest. The first is the development of novel machine learning and statistical methods and tools that help uncover the genotype-phenotype relationship from large-scale genomic data. The second is the development of robust and scalable tools for analysing with whole genome sequencing data that can enable the shifting of genomics from a research tool to a solution for applications in industry. This encompasses fundamental tools for quality control and variant calling as well as downstream analysis such has clustering or prediction. Both streams of work span two very different domains of bacterial and human genomics.
+  link:
+    url: https://aimedtech.org.au/people/Benjamin%20Goudey.html
+    display: Benjamin Goudey
+  highlight: 1
