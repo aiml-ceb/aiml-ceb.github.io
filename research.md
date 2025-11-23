@@ -87,5 +87,23 @@ permalink: /workshop_schedule/
       <td><em>&nbsp;&nbsp; Hierarchical Sampling vs. Random Selection for Protein Fitness Prediction</em></td>
     </tr>
   </table>
+
+---
+      
+<details>
+  <summary><strong>🧪 Poster Session (10:45 AM – 11:30 AM)</strong>
+
+  The following papers will be presented during the poster session:
+
+  <ul>
+    <li><em>Active Flow Matching</em></li>
+    <li><em>IQ-NET: A Deep Learning Approach for Fast and Accurate Phylogenetic Inference</em></li>
+    <li><em>Hierarchical Graph Network for Fullerene Energy Prediction</em></li>
+    <li><em>Evolutionary Exploration with LLM-Generated Influenza Variants</em></li>
+    <li><em>Hierarchical Sampling vs. Random Selection for Protein Fitness Prediction</em></li>
+    <li><em>SciAgent OLab: Open Multi-Agent LLMs for Accelerating Biomedical Discovery</em></li>
+    <li><em>Hybrid Phylogenetic Model Selection using Deep Learning and High-Performance Computing</em></li>
+    <li><em>MAGF: A Statistically-Grounded Attention Mechanism for Multimodal Fusion in Early Alzheimer’s Detection</em></li>
+  </ul>
       
   <br/>
